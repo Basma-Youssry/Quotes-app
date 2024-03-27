@@ -1,0 +1,50 @@
+/* General properties */
+
+body{
+    background-color: #F8DFD4;
+    font-family: 'Oswald', sans-serif;
+
+}
+
+
+
+
+/* Start Quotes section */
+.quotes{
+    text-align: center;
+}
+.quotes h1{
+    font-size: 85px;
+    font-weight: 700;
+    letter-spacing: -5px;
+    color: #637E76;
+}
+.quotes p{
+    font-size: 30px;
+    font-weight: 400;
+}
+
+.quotes button{
+    padding: 30px 60px;
+    color: #637E76;
+    background-color: #C69774;
+    font-weight: 800;
+}
+.quotes button:hover{
+    color: #C69774;
+    background-color: #637E76;
+}
+.quotes-contain{
+    background-color: #FFEFE8;
+    width: 100%;
+    height: 200px;
+    border-radius: 20px;
+    padding-inline: 10px;
+}
+
+
+
+
+
+
+/* End Quotes section */
